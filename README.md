@@ -3,5 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Cleaning-Data-with-Gapminder-d
 
 # Cleaning-Data-with-Gapminder-data
 Tidying a real-world, messy dataset obtained from the Gapminder Foundation
+
 Analyze life expectancy among countries
+
 Clean "Life expectancy years" Gapminder data with pandas. (assert, dropna, to_numeric, melt, dtypes, regular expression, drop_duplicates, notnull ...)
