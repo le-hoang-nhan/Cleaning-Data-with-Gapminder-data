@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Cleaning-Data-with-Gapminder-d
 
 See my presentation PowerPoint here: 
 Life expectancy years Gapminder data
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EaRGn9nX4FhKuA7CXmBEnwEBu0gtqTnRkEtwImCIinGT3w?e=AmTXv3
+https://drive.google.com/file/d/1jtOM6ZZltbakKOTlgUQJ26s2JtF8h8r2/view?usp=sharing
 
 # Cleaning-Data-with-Gapminder-data
 Tidying a real-world, messy dataset obtained from the Gapminder Foundation
